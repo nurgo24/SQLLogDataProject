@@ -1,1 +1,1 @@
-# SQLLogDataProject
+Log Data Project
