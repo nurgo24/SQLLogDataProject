@@ -1,4 +1,4 @@
-<h1>Mock Consulting Firm Project<h1>
+<h1>Mock Consulting Firm Project</h1>
 
 <h2>Overview:</h2>
 
